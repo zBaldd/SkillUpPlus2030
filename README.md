@@ -1,12 +1,17 @@
--SkillUpPlus 2030
+SkillUpPlus 2030
 
 Aplicativo mobile de desenvolvimento profissional com trilhas de aprendizagem, cursos recomendados por IA, autoavaliação de competências e acompanhamento de progresso.
 --------------------------------
 Integrantes do Grupo
+
 Nome	                      RM
+
 Arthur Baldissera Claumann	RM550219
+
 Ricardo Ramos Vergani	RM550166
+
 Aksel Viktor Caminha Rae	RM99011
+
 --------------------------------
 Tecnologias Utilizadas
 - React Native / Expo
